@@ -6,7 +6,7 @@
 
 ## Índice
 
-- **[Descripcion](#Descripción)**
+- **[Descripción](#Descripción)**
 - **[Objetivo](#Objetivo)**
 - **[Fuentes](#Fuentes)**
 - **[Planificación](#Planificación)**
